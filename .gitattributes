@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+solana-bo-moon-linux filter=lfs diff=lfs merge=lfs -text
